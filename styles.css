@@ -7,5 +7,15 @@ body {
 header{
     border-bottom: solid 2px rgb(94, 18, 18);
     padding: 20px;
+    font-size: 32px;
+    color: rgb rgb(224, 14, 14)
     
+}
+
+section {
+    background: rgb(197, 96, 96);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
