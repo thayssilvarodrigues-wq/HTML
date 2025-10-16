@@ -21,5 +21,24 @@ section {
 }
 
 div {
-    margin-rigth: 20px;
+    margin-right: 20px;
 }
+
+.chamada-texto {
+    margin-right: 20px;
+}
+
+/* código omitido */
+
+section {
+    background: rgb(223, 162, 162);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%
+}
+    
